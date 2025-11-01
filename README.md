@@ -236,11 +236,12 @@ Scaffold a working bidirectional USDC bridge modal between Ethereum Sepolia and 
 # Quick Start
 
 # Requirements
-Node.js 18+
-MetaMask or compatible wallet
-USDC on Ethereum Sepolia or Arc Testnet (depending on bridge direction)
-Get Sepolia USDC from Circle Faucet
-Get Arc Testnet USDC from Arc Testnet faucet
+
+- Node.js 18+
+- MetaMask or compatible wallet
+- USDC on Ethereum Sepolia or Arc Testnet (depending on bridge direction)
+- Get Sepolia USDC from Circle Faucet [https://faucet.circle.com](https://faucet.circle.com)
+- Get Arc Testnet USDC from Arc Testnet faucet [https://faucet.circle.com](https://faucet.circle.com)
 
 # Install
 
@@ -254,11 +255,12 @@ cd my-bridge-app
 npm install
 npm run dev
 ```
+
 Example online
-https://www.npmjs.com/package/create-bridge-kit
+[https://www.npmjs.com/package/create-bridge-kit](https://www.npmjs.com/package/create-bridge-kit)
 
 Use bridge kit by @realchriswilder
-https://bridge-to-arc.netlify.app/
+[https://bridge-to-arc.netlify.app/](https://bridge-to-arc.netlify.app/)
 
 ## License
 
