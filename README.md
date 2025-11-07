@@ -244,6 +244,8 @@ npx hardhat run scripts/deploy.ts --network arc
 create-bridge-kit
 Scaffold a working bidirectional USDC bridge modal between Ethereum Sepolia and Arc Testnet using Circle Bridge Kit.
 
+Bridge Base Sepolia to Arc Testnet is a example route !
+
 # Quick Start
 
 # Requirements
